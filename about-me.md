@@ -1,1 +1,2 @@
-
+As Nathaniel Geron, this activity helped me improve my understanding of Linux commands and the use of GitHub for documenting and managing my work. Using Killercoda, I was able to practice different Linux commands in an interactive environment. I learned how to check my current directory, identify the current user, view the hostname, create folders and files, navigate directories, and display file contents. This hands-on activity made it easier for me to understand how Linux works.
+Using GitHub, I learned how to create and edit Markdown files, organize my activities, and save my work in a repository. I also learned the importance of committing changes so that my work is properly recorded and updated.
